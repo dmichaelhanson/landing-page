@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "ponderosasoftware.com",
+  "Id": "18d801cb-6222-4834-b5f5-219bed77788c"
+}
